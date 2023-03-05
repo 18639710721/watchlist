@@ -7,8 +7,7 @@
 
 """
 
-from flask import Flask, url_for, render_template  # 生产视图函数对应的URL
-from markupsafe import escape
+from flask import Flask, render_template  # 生产视图函数对应的URL
 
 # 实例化Flask类 创建一个程序对象app
 app = Flask(__name__)
@@ -18,6 +17,11 @@ app = Flask(__name__)
 触发这个函数获取返回值，并把返回值显示到浏览器窗口
     第一个参数是URL规则字符串 这里的/指的是根地址
 """
+
+@app.route('/')
+def index():
+    return render_template('index.html', name=name, movies=movies) # 通过关键字参数传入变量
+
 
 # 定义一些虚拟数据
 name = 'Grey Li'

@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e68f6-a9f4-4ed3-8377-1208401ce1f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartV0.5Git/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartV0.5Git/.flaskenv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartV0.5Git/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartV0.5Git/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flaskenv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watchlist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678024892371</updated>
       <workItem from="1678024893664" duration="5358000" />
-      <workItem from="1678030711455" duration="66000" />
+      <workItem from="1678030711455" duration="851000" />
     </task>
     <servers />
   </component>
