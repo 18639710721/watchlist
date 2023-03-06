@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e68f6-a9f4-4ed3-8377-1208401ce1f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/.flaskenv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/doc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/static/images/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/static/images/totoro.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/watchlist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watchlist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,24 +45,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4" />
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3" />
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartTemplatesV2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4" />
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3\static" />
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3\static\images" />
       <recent name="C:\Users\2907568338\Desktop\watchlist" />
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartV0.5Git" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartOptimizeTemplatesV5" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartTemplatesV2" />
     </key>
   </component>
   <component name="RunManager" selected="Python.app">
@@ -136,7 +128,7 @@
       <updated>1678024892371</updated>
       <workItem from="1678024893664" duration="5358000" />
       <workItem from="1678030711455" duration="14518000" />
-      <workItem from="1678093482350" duration="2952000" />
+      <workItem from="1678093482350" duration="7761000" />
     </task>
     <servers />
   </component>

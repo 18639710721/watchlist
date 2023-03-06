@@ -7,5 +7,16 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4\data.db</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="data [2]" uuid="583383a3-bf7f-4eff-a46b-88bfdd2bef4b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartOptimizeTemplatesV5\data.db</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.40.1/sqlite-jdbc-3.40.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
   </component>
 </project>
