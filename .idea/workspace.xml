@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e68f6-a9f4-4ed3-8377-1208401ce1f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watchlist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watchlist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +129,7 @@
       <updated>1678024892371</updated>
       <workItem from="1678024893664" duration="5358000" />
       <workItem from="1678030711455" duration="14518000" />
-      <workItem from="1678093482350" duration="7761000" />
+      <workItem from="1678093482350" duration="13081000" />
     </task>
     <servers />
   </component>
