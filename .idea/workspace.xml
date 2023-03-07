@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e68f6-a9f4-4ed3-8377-1208401ce1f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watchlist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watchlist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskQuickStartUserLoginV8/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartUserLoginV8/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartV0.5Git" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python tests.Unittests in test_watchlist.py">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="watchlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,8 +154,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_watchlist.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="watchlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskQuickStartUserLoginV8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/FlaskQuickStartUserLoginV8/test_watchlist.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_watchlist.py" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
@@ -176,7 +190,7 @@
       <workItem from="1678024893664" duration="5358000" />
       <workItem from="1678030711455" duration="14518000" />
       <workItem from="1678093482350" duration="13779000" />
-      <workItem from="1678163410392" duration="6734000" />
+      <workItem from="1678163410392" duration="9067000" />
     </task>
     <servers />
   </component>
@@ -200,22 +214,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1280.680@0.0.1280.680" timestamp="1678080678094" />
-    <state width="595" height="197" key="GridCell.Tab.0.bottom" timestamp="1678171695977">
+    <state width="1236" height="183" key="GridCell.Tab.0.bottom" timestamp="1678181424296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="197" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
-    <state width="595" height="197" key="GridCell.Tab.0.center" timestamp="1678171695977">
+    <state width="1236" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1678181424296" />
+    <state width="1236" height="183" key="GridCell.Tab.0.center" timestamp="1678181424296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="197" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
-    <state width="595" height="197" key="GridCell.Tab.0.left" timestamp="1678171695977">
+    <state width="1236" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1678181424296" />
+    <state width="1236" height="183" key="GridCell.Tab.0.left" timestamp="1678181424296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="197" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
-    <state width="595" height="197" key="GridCell.Tab.0.right" timestamp="1678171695977">
+    <state width="1236" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1678181424296" />
+    <state width="1236" height="183" key="GridCell.Tab.0.right" timestamp="1678181424296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="197" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
+    <state width="1236" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1678181424296" />
     <state width="212" height="483" key="HiddenNamespacesPopup" timestamp="1678089091268">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -233,6 +247,7 @@
     <SUITE FILE_PATH="coverage/watchlist$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1678163423592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5" />
     <SUITE FILE_PATH="coverage/watchlist$app.coverage" NAME="app Coverage Results" MODIFIED="1678093725918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4" />
     <SUITE FILE_PATH="coverage/watchlist$test.coverage" NAME="test Coverage Results" MODIFIED="1678171695970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartUserLoginV8" />
+    <SUITE FILE_PATH="coverage/watchlist$Unittests_in_test_watchlist_py.coverage" NAME="Unittests in test_watchlist.py Coverage Results" MODIFIED="1678181424288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartUserLoginV8" />
     <SUITE FILE_PATH="coverage/watchlist$databasetest.coverage" NAME="databasetest Coverage Results" MODIFIED="1678088469563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4" />
   </component>
 </project>

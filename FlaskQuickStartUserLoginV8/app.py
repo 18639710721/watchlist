@@ -108,7 +108,7 @@ def index():
         movie = Movie(title=title, year=year)
         db.session.add(movie)
         db.session.commit()
-        flash('Item created')
+        flash('Item created.')
         return redirect(url_for('index'))
 
     movies = Movie.query.all()  # 读取所有电影记录
@@ -235,7 +235,7 @@ def forge():
         db.session.add(movie)
 
     db.session.commit()
-    click.echo('Done')
+    click.echo('Done.')
 
 
 @app.cli.command()
