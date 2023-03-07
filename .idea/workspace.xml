@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e68f6-a9f4-4ed3-8377-1208401ce1f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watchlist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watchlist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +45,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskQuickStartUserLoginV8" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartUserLoginV8" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartOptimizeTemplatesV5" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3" />
+      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartTemplatesV2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4" />
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3\static" />
@@ -60,14 +66,30 @@
       <recent name="C:\Users\2907568338\Desktop\watchlist" />
       <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartV0.5Git" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartOptimizeTemplatesV5" />
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartSQLAlchemyV4" />
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartStaticFilesV3" />
-      <recent name="C:\Users\2907568338\Desktop\watchlist\FlaskQuickStartTemplatesV2" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="watchlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="watchlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,8 +134,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="watchlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskQuickStartUserLoginV8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskQuickStartUserLoginV8/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.databasetest" />
       </list>
@@ -129,7 +175,8 @@
       <updated>1678024892371</updated>
       <workItem from="1678024893664" duration="5358000" />
       <workItem from="1678030711455" duration="14518000" />
-      <workItem from="1678093482350" duration="13081000" />
+      <workItem from="1678093482350" duration="13779000" />
+      <workItem from="1678163410392" duration="6734000" />
     </task>
     <servers />
   </component>
@@ -153,22 +200,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1280.680@0.0.1280.680" timestamp="1678080678094" />
-    <state width="1236" height="258" key="GridCell.Tab.0.bottom" timestamp="1678093470160">
+    <state width="595" height="197" key="GridCell.Tab.0.bottom" timestamp="1678171695977">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="258" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1678093470160" />
-    <state width="1236" height="258" key="GridCell.Tab.0.center" timestamp="1678093470159">
+    <state width="595" height="197" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
+    <state width="595" height="197" key="GridCell.Tab.0.center" timestamp="1678171695977">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="258" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1678093470159" />
-    <state width="1236" height="258" key="GridCell.Tab.0.left" timestamp="1678093470156">
+    <state width="595" height="197" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
+    <state width="595" height="197" key="GridCell.Tab.0.left" timestamp="1678171695977">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="258" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1678093470156" />
-    <state width="1236" height="258" key="GridCell.Tab.0.right" timestamp="1678093470159">
+    <state width="595" height="197" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
+    <state width="595" height="197" key="GridCell.Tab.0.right" timestamp="1678171695977">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="258" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1678093470159" />
+    <state width="595" height="197" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1678171695977" />
     <state width="212" height="483" key="HiddenNamespacesPopup" timestamp="1678089091268">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -177,13 +224,15 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="427" y="59" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1678093720095" />
-    <state x="85" y="0" key="SettingsEditor" timestamp="1678086566275">
+    <state x="85" y="0" key="SettingsEditor" timestamp="1678175162464">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="85" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1678086566275" />
+    <state x="85" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1678175162464" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/watchlist$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1678163423592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartOptimizeTemplatesV5" />
     <SUITE FILE_PATH="coverage/watchlist$app.coverage" NAME="app Coverage Results" MODIFIED="1678093725918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4" />
+    <SUITE FILE_PATH="coverage/watchlist$test.coverage" NAME="test Coverage Results" MODIFIED="1678171695970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartUserLoginV8" />
     <SUITE FILE_PATH="coverage/watchlist$databasetest.coverage" NAME="databasetest Coverage Results" MODIFIED="1678088469563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskQuickStartSQLAlchemyV4" />
   </component>
 </project>

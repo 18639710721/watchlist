@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/FlaskQuickStartSQLAlchemyV4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FlaskQuickStartOptimizeTemplatesV5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FlaskQuickStartUserLoginV8" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (watchlist)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -18,6 +19,7 @@
       <list>
         <option value="$MODULE_DIR$/FlaskQuickStartTemplatesV2/templates" />
         <option value="$MODULE_DIR$/FlaskQuickStartOptimizeTemplatesV5/templates" />
+        <option value="$MODULE_DIR$/FlaskQuickStartUserLoginV8/templates" />
       </list>
     </option>
   </component>
